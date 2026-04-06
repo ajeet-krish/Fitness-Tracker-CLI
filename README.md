@@ -9,20 +9,20 @@ No apps and websites full of ads and subscriptions. Open a terminal, run the too
 ## Features
 
 ### Logging
-- **Workouts** — Interactive exercise logging with automatic set parsing (`135lb x 10`, `135x10`, etc.)
-- **Diet** — Daily nutrition tracking (calories, protein, carbs, creatine)
-- **Bodyweight** — Daily bodyweight for relative strength metrics
+- **Workouts**: Interactive exercise logging with automatic set parsing (`135lb x 10`, `135x10`, etc.)
+- **Diet**: Daily nutrition tracking (calories, protein, carbs, creatine)
+- **Bodyweight**: Daily bodyweight for relative strength metrics
 
 ### Reports
-- **Daily** — Full day view: all exercises, sets, diet stats, bodyweight
-- **Weekly** — Aggregated volume, macros, and training frequency
-- **Monthly** — Long-term trends and summaries
+- **Daily**: Full day view: all exercises, sets, diet stats, bodyweight
+- **Weekly**: Aggregated volume, macros, and training frequency
+- **Monthly**: Long-term trends and summaries
 
 ### Analytics
-- **Personal Records** — Auto-detected max weight, max volume, max reps per exercise
-- **Progress Tracking** — Volume, volume/set, best set, e1RM over time
-- **Exercise Comparison** — Overlay progress curves of multiple exercises
-- **Correlation Analysis** — Diet vs performance with statistical significance
+- **Personal Records**: Auto-detected max weight, max volume, max reps per exercise
+- **Progress Tracking**: Volume, volume/set, best set, e1RM over time
+- **Exercise Comparison**: Overlay progress curves of multiple exercises
+- **Correlation Analysis**: Diet vs performance with statistical significance
 
 ### Visualization
 - Progress line charts
