@@ -1,0 +1,1 @@
+# Exercise → muscle group auto-detection mapping

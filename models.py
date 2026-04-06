@@ -1,0 +1,1 @@
+# Dataclasses for all entities
